@@ -13,12 +13,14 @@
     border: 2px solid red;
 }
 /* task 4 */
-.navbar li{
+.navbar li.navb{
     background-color: rgb(191, 229, 241);
+    margin: 10px;
 }
 /* task 5 */
-.header>h1~p{
+.header>h1{
     margin-top: 20px;
+    background-color: rgb(183, 137, 137);
 }
 /* task 6 */
 .footer>span{
@@ -29,13 +31,15 @@
     border: 1px solid black;
 }
 /* task 8 */
-.nav>ul li.main{
+.nav li.main{
     margin-right: 15px;
-    background-color: rgb(234, 244, 214);
+    background-color: rgb(178, 217, 99);
+    margin: 10px;
 }
 /* task 9 */
 .photo{
     background-color: lightgray;
+    margin: 10px;
 }
 /* task 10 */
 .container>.footer span{
